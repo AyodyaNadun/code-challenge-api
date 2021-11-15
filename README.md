@@ -42,6 +42,7 @@ All environment variables placed on .env files.
 ## **Testing**
 #
 * #### Test modules - mocha and chai
+* #### Test file path - /test/server.js
 * #### Command to execute the testing
 > $ npm test 
 #
